@@ -3,9 +3,7 @@ Para iniciar a utilizar o LaTeX, precisamos da coleção de _softwares_ (junto c
 
 
 ## Windows
-[MIKTeX*](https://miktex.org/)
-
-*O MIKTeX pode ser utilizado em todos os sistemas.
+[MIKTeX*](https://miktex.org/) <br> *O MIKTeX pode ser utilizado em todos os sistemas.
 
 ## Linux
 [TeX Live](https://tug.org/texlive/)
