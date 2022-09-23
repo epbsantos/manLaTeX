@@ -22,3 +22,10 @@ Os primeiros dois parágrafos.
 ```
 
 
+# Comentário (texto não processado)
+
+```
+...
+% Este é um comentário em latex.
+...
+```
