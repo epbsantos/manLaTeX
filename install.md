@@ -24,3 +24,7 @@ Existem vários editores para LaTeX, mas estarei apresentando três opções:
 [TeXstudio](https://www.texstudio.org/)
 
 [Overleaf (_online_)](https://pt.overleaf.com/)
+
+
+# Bibliografia
+[JabRef](https://www.jabref.org/)
