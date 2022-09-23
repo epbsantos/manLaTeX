@@ -4,9 +4,9 @@
 \documentclass{article}
 
 \begin{document}
-Olá \latex.
+Olá \LaTeX.
 
-Os primieros dois parágrafos.
+Os primeiros dois parágrafos.
 \end{document}
 ```
 
