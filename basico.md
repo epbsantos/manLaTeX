@@ -169,5 +169,83 @@ This subsubsection's content...
 </td></tr>
 </tbody></table>
 
+# Forma do texto - Itálico e Negrito
+```
+\textit{...} ou \emph{} % Itálico
+\textbf{...}            % Negrito
+```
+
+# Tamanho do texto
+
+<table class="wikitable">
+<tbody><tr>
+<th>Command
+</th>
+<th>Output
+</th></tr>
+<tr>
+<td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr" dir="ltr"><span class="k">\tiny</span></code>
+</td>
+<td><span style="font-family: serif; font-size:68%;">sample text</span>
+</td></tr>
+<tr>
+<td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr" dir="ltr"><span class="k">\scriptsize</span></code>
+</td>
+<td><span style="font-family: serif; font-size:80%;">sample text</span>
+</td></tr>
+<tr>
+<td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr" dir="ltr"><span class="k">\footnotesize</span></code>
+</td>
+<td><span style="font-family: serif; font-size:85%;">sample text</span>
+</td></tr>
+<tr>
+<td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr" dir="ltr"><span class="k">\small</span></code>
+</td>
+<td><span style="font-family: serif; font-size:92%;">sample text</span>
+</td></tr>
+<tr>
+<td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr" dir="ltr"><span class="k">\normalsize</span></code>
+</td>
+<td><span style="font-family: serif; font-size:100%;">sample text</span>
+</td></tr>
+<tr>
+<td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr" dir="ltr"><span class="k">\large</span></code>
+</td>
+<td><span style="font-family: serif; font-size:117%;">sample text</span>
+</td></tr>
+<tr>
+<td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr" dir="ltr"><span class="k">\Large</span></code>
+</td>
+<td><span style="font-family: serif; font-size:141%;">sample text</span>
+</td></tr>
+<tr>
+<td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr" dir="ltr"><span class="k">\LARGE</span></code>
+</td>
+<td><span style="font-family: serif; font-size:158%;">sample text</span>
+</td></tr>
+<tr>
+<td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr" dir="ltr"><span class="k">\huge</span></code>
+</td>
+<td><span style="font-family: serif; font-size:190%;">sample text</span>
+</td></tr>
+<tr>
+<td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr" dir="ltr"><span class="k">\Huge</span></code>
+</td>
+<td><span style="font-family: serif; font-size:228%;">sample text</span>
+</td></tr></tbody></table>
+
+# Listas
+```
+\begin{list_type}
+   \item {The first item}
+   \item The second item 
+   \item The third etc \ldots
+\end{list_type}
+```
+
+O tipo da lista pode ser **itemize**(bolinhas) ou **enumerate**(números).
+
+
+
 
 
