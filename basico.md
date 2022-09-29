@@ -30,7 +30,7 @@ Os primeiros dois parágrafos.
 ...
 ```
 
-# Classes do documento
+# Estrutura do documento
 ```
 \documentclass[11pt,twoside,a4paper]{article}
 ```
@@ -88,3 +88,86 @@ Os primeiros dois parágrafos.
 </td>
 <td>For writing presentations (see <a href="/wiki/LaTeX/Presentations" title="LaTeX/Presentations">LaTeX/Presentations</a>).
 </td></tr></tbody></table>
+
+# Pacotes
+```
+\usepackage[options]{package}
+```
+
+# Comandos de sessões
+Exemplo:
+```
+\chapter{Introduction}
+This chapter's content...
+
+\section{Structure}
+This section's content...
+
+\subsection{Top Matter}
+This subsection's content...
+
+\subsubsection{Article Information}
+This subsubsection's content...
+```
+
+<table class="wikitable">
+<tbody><tr>
+<th>Command
+</th>
+<th width="10%">Level
+</th>
+<th>Comment
+</th></tr>
+<tr>
+<td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr" dir="ltr"><span class="k">\part</span><span class="nb">{</span>''part''<span class="nb">}</span></code>
+</td>
+<td style="text-align: center">-1
+</td>
+<td>not in letters
+</td></tr>
+<tr>
+<td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr" dir="ltr"><span class="k">\chapter</span><span class="nb">{</span>''chapter''<span class="nb">}</span></code>
+</td>
+<td style="text-align: center">0
+</td>
+<td>only books and reports
+</td></tr>
+<tr>
+<td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr" dir="ltr"><span class="k">\section</span><span class="nb">{</span>''section''<span class="nb">}</span></code>
+</td>
+<td style="text-align: center">1
+</td>
+<td>not in letters
+</td></tr>
+<tr>
+<td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr" dir="ltr"><span class="k">\subsection</span><span class="nb">{</span>''subsection''<span class="nb">}</span></code>
+</td>
+<td style="text-align: center">2
+</td>
+<td>not in letters
+</td></tr>
+<tr>
+<td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr" dir="ltr"><span class="k">\subsubsection</span><span class="nb">{</span>''subsubsection''<span class="nb">}</span></code>
+</td>
+<td style="text-align: center">3
+</td>
+<td>not in letters
+</td></tr>
+<tr>
+<td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr" dir="ltr"><span class="k">\paragraph</span><span class="nb">{</span>''paragraph''<span class="nb">}</span></code>
+</td>
+<td style="text-align: center">4
+</td>
+<td>not in letters
+</td></tr>
+<tr>
+<td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr" dir="ltr"><span class="k">\subparagraph</span><span class="nb">{</span>''subparagraph''<span class="nb">}</span></code>
+</td>
+<td style="text-align: center">5
+</td>
+<td>not in letters
+</td></tr>
+</tbody></table>
+
+
+
