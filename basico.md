@@ -30,7 +30,7 @@ Os primeiros dois parágrafos.
 ...
 ```
 
-# Classes do documentos
+# Classes do documento
 ```
 \documentclass[11pt,twoside,a4paper]{article}
 ```
