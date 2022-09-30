@@ -9,5 +9,6 @@ Manual prático para a utilização da linguagem TeX para a produção de texto 
 ## Sumário
 1. [Instalação](install.md)
 2. [Básico](basico.md)
-3. [Imagens e tabelas](img-tab.md)
-4. [Referência bibliográfica](ref.md)
+3. [Tabelas](tab.md)
+4. [Imagens](img.md)
+5. [Referência bibliográfica](ref.md)
