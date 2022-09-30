@@ -94,6 +94,11 @@ Os primeiros dois parágrafos.
 \usepackage[options]{package}
 ```
 
+# Hifenização
+```
+\usepackage[brazil]{babel}
+```
+
 # Comandos de sessões
 Exemplo:
 ```
