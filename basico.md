@@ -182,73 +182,44 @@ This subsubsection's content...
 
 # Tamanho do texto
 
-<table class="wikitable">
-    <tbody>
-        <tr>
-            <th>Command
-            </th>
-        </tr>
-        <tr>
-            <td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr"
-                    dir="ltr"><span class="k">\tiny</span></code>
-            </td>
-            
-        </tr>
-        <tr>
-            <td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr"
-                    dir="ltr"><span class="k">\scriptsize</span></code>
-            </td>
-            
-        </tr>
-        <tr>
-            <td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr"
-                    dir="ltr"><span class="k">\footnotesize</span></code>
-            </td>
-            
-        </tr>
-        <tr>
-            <td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr"
-                    dir="ltr"><span class="k">\small</span></code>
-            </td>
-            
-        </tr>
-        <tr>
-            <td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr"
-                    dir="ltr"><span class="k">\normalsize</span></code>
-            </td>
-            
-        </tr>
-        <tr>
-            <td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr"
-                    dir="ltr"><span class="k">\large</span></code>
-            </td>
-            
-        </tr>
-        <tr>
-            <td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr"
-                    dir="ltr"><span class="k">\Large</span></code>
-            </td>
-            
-        </tr>
-        <tr>
-            <td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr"
-                    dir="ltr"><span class="k">\LARGE</span></code>
-            </td>
-            
-        </tr>
-        <tr>
-            <td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr"
-                    dir="ltr"><span class="k">\huge</span></code>
-            </td>
-            
-        </tr>
-        <tr>
-            <td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr"
-                    dir="ltr"><span class="k">\Huge</span></code>
-            </td>
-            
-        </tr>
-    </tbody>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-x6qv"><span style="background-color:#EAECF0">Command</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-f3ho"><span style="font-weight:bold;color:#008000">\tiny</span></td>
+  </tr>
+  <tr>
+    <td class="tg-f3ho"><span style="font-weight:bold;color:#008000">\scriptsize</span></td>
+  </tr>
+  <tr>
+    <td class="tg-f3ho"><span style="font-weight:bold;color:#008000">\footnotesize</span></td>
+  </tr>
+  <tr>
+    <td class="tg-f3ho"><span style="font-weight:bold;color:#008000">\small</span></td>
+  </tr>
+  <tr>
+    <td class="tg-f3ho"><span style="font-weight:bold;color:#008000">\normalsize</span></td>
+  </tr>
+  <tr>
+    <td class="tg-f3ho"><span style="font-weight:bold;color:#008000">\large</span></td>
+  </tr>
+  <tr>
+    <td class="tg-f3ho"><span style="font-weight:bold;color:#008000">\Large</span></td>
+  </tr>
+  <tr>
+    <td class="tg-f3ho"><span style="font-weight:bold;color:#008000">\LARGE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-f3ho"><span style="font-weight:bold;color:#008000">\huge</span></td>
+  </tr>
+  <tr>
+    <td class="tg-f3ho"><span style="font-weight:bold;color:#008000">\Huge</span></td>
+  </tr>
+</tbody>
 </table>
 
 # Listas
