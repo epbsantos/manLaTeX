@@ -13,25 +13,25 @@ Os primeiros dois parágrafos.
 
 # Simbolos reservados
 
-```
+```latex
 # $ % ^ & _ { } ~ \
 ```
 
-```
+```latex
 \# \$ \% \^{} \& \_ \{ \} \~{} \textbackslash{}
 ```
 
 
 # Comentário (texto não processado)
 
-```
+```latex
 ...
 % Este é um comentário em latex.
 ...
 ```
 
 # Estrutura do documento
-```
+```latex
 \documentclass[11pt,twoside,a4paper]{article}
 ```
 
@@ -90,18 +90,18 @@ Os primeiros dois parágrafos.
 </td></tr></tbody></table>
 
 # Pacotes
-```
+```latex
 \usepackage[options]{package}
 ```
 
 # Hifenização
-```
+```latex
 \usepackage[brazil]{babel}
 ```
 
 # Comandos de sessões
 Exemplo:
-```
+```latex
 \chapter{Introduction}
 This chapter's content...
 
@@ -175,7 +175,7 @@ This subsubsection's content...
 </tbody></table>
 
 # Forma do texto - Itálico e Negrito
-```
+```latex
 \textit{...} ou \emph{} % Itálico
 \textbf{...}            % Negrito
 ```
@@ -223,7 +223,7 @@ This subsubsection's content...
 </table>
 
 # Listas
-```
+```latex
 \begin{list_type}
    \item {The first item}
    \item The second item 
@@ -233,7 +233,9 @@ This subsubsection's content...
 
 O tipo da lista pode ser **itemize**(bolinhas) ou **enumerate**(números).
 
-
-
+# Nota de rodapé
+```latex
+Criar uma nota de rodapé é fácil\footnote{Aqui está!.}.
+```
 
 
