@@ -191,7 +191,7 @@ This subsubsection's content...
 <tr>
 <td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr" dir="ltr"><span class="k">\tiny</span></code>
 </td>
-<td><span style="font-family: serif; font-size:68%;">sample text</span>
+<td><span style="font-size:68%;">sample text</span>
 </td></tr>
 <tr>
 <td><code class="mw-highlight mw-highlight-lang-latex mw-content-ltr" dir="ltr"><span class="k">\scriptsize</span></code>
