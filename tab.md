@@ -100,3 +100,13 @@ Dentro dos []
 <td>partial horizontal line beginning in column <i>i</i> and ending in column <i>j</i>
 </td></tr></tbody></table>
 
+
+## Exemplo
+```
+\begin{tabular}{ l c r }
+  001 & 002 & 003 \\
+   04 &  05 &  06 \\
+    7 &   8 &   9 \\
+\end{tabular}
+```
+
