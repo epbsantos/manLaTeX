@@ -1,6 +1,6 @@
 # Primeiras linhas
 
-```
+```latex
 \documentclass{article}
 
 \begin{document}
