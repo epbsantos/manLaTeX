@@ -50,7 +50,7 @@ A criação de tabelas no latex pode ser complicado, pela forma bidimencional da
 **Alinhamento vertical**
 
 Dentro dos []
-```
+```latex
 \begin{tabular}[pos]{table spec}
 ```
 <table class="wikitable">
@@ -102,7 +102,7 @@ Dentro dos []
 
 
 ## Exemplo
-```
+```latex
 \begin{tabular}{ l c r }
   001 & 002 & 003 \\
    04 &  05 &  06 \\
