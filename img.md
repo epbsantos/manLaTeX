@@ -1,5 +1,7 @@
 # Figura
 
+<a href="https://app.diagrams.net/" target="_blank">draw.io (editor de diagrama online)</a>
+
 ```latex
 \begin{figure}[placement specifier]
 ... figure contents ...
