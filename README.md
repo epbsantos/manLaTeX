@@ -12,3 +12,5 @@ Manual prático para a utilização da linguagem TeX para a produção de texto 
 3. [Tabelas](tab.md)
 4. [Imagens](img.md)
 5. [Referência bibliográfica](ref.md)
+6. Extras:
+   - [Estrutura química [EN]](https://en.wikibooks.org/wiki/LaTeX/Chemical_Graphics)
