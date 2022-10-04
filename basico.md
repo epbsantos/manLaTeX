@@ -180,7 +180,7 @@ This subsubsection's content...
 \textbf{...}            % Negrito
 ```
 
-No overleaf (e em alguns editores), tem o atalho de teclado <code>ctrl+i</code> (itálico) e <code>ctrl+b</code>.
+No overleaf (e em alguns editores), tem o atalho de teclado <code>ctrl+i</code> (itálico) e <code>ctrl+b</code> (negrito).
 
 # Tamanho do texto
 
