@@ -3,6 +3,9 @@
 <a href="https://app.diagrams.net/" target="_blank">draw.io (editor de diagrama online)</a>
 
 ```latex
+\usepackage{graphicx}
+
+...
 \begin{figure}[placement specifier]
 ... figure contents ...
 \end{figure}
